@@ -13,8 +13,8 @@
 ## 📱 APK's 📱
 > [!NOTE]
 > Estos enlaces siempre son a la versión más reciente
-- APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1MzHXYtZM49xztw6litc8qjyu1fiiGjA3/view?usp=sharing)
-- APK de la versión de **Capacitor + Ionic**: [Aquí](https://drive.google.com/file/d/1s2P7aPPx2RVhnnP7pMJIFw8ZJRoerwQY/view?usp=sharing)
+- APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1y1DIFjgpZ6o9rxLW9vCL9BeCBPj2K3v5/view?usp=sharing)
+- APK de la versión de **Capacitor + Ionic**: [Aquí]()
 <br/>
 
 ## 🌐 Netlify 🌐
