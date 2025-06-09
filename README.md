@@ -20,4 +20,4 @@
 
 ## 🌐 Netlify 🌐
 > [!IMPORTANT]
-> **Para acceder a la versión de Ionic online subida a Netflify debes usar el enlace que hay disponible en el repositorio de la Versión Ionic.**
+> **Para acceder a la versión de Ionic online subida a Netlify debes usar el enlace que hay disponible en el repositorio de la Versión Ionic.**
