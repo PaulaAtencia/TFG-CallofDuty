@@ -8,11 +8,12 @@
 - 📱 Call of Duty - Versión Android Studio: [Aquí](https://github.com/PaulaAtencia/Kotlin_CallofDuty)
 - 📫 Servicio Strapi: [Aquí](https://github.com/PaulaAtencia/Strapi_CallofDuty)
 - 🐍 CoD Utils - Librerías Python: [Aquí](https://github.com/PaulaAtencia/callofduty-utils-fastapi)
+- 🎮 Shot Of Duty - Juego en Unity: [Aquí](https://github.com/PaulaAtencia/Shot-Of-Duty)
 <br/>
 
 ## 📱 APK's 📱
 > [!NOTE]
-> Estos enlaces siempre son a la versión más reciente
+> Estos enlaces siempre son a la versión más reciente sacada
 - APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1y1DIFjgpZ6o9rxLW9vCL9BeCBPj2K3v5/view?usp=sharing)
 - APK de la versión de **Capacitor + Ionic**: [Aquí]()
 <br/>
