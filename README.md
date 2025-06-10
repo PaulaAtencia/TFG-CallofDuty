@@ -14,7 +14,7 @@
 ## 📱 APK's 📱
 > [!NOTE]
 > Estos enlaces siempre son a la versión más reciente sacada
-- APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1y1DIFjgpZ6o9rxLW9vCL9BeCBPj2K3v5/view?usp=sharing)
+- APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1n2PIK21sR6uKFkizzUphCbhvN9T0rbtK/view?usp=sharing)
 - APK de la versión de **Capacitor + Ionic**: [Aquí]()
 <br/>
 
