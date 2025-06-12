@@ -71,7 +71,7 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 ## 📱 APK's 📱
 > [!NOTE]
 > Estos enlaces siempre son a la versión más reciente sacada
-- APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1UNBrSvk2viT3Hb0erQkLH7-EYaWRm7gw/view?usp=sharing)
+- APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1izMRuY_5V9BO5KFLTZ6sWRWtVI1yB00L/view?usp=sharing)
 - APK de la versión de **Capacitor + Ionic**: [Aquí](https://drive.google.com/file/d/1Zn4mGwf5thCwKKIdZ1sCeF60HQ0UsUzS/view?usp=sharing)
 <br/>
 
