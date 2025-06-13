@@ -87,6 +87,11 @@ Todas las cosas de Interfaces está en Google Drive, la documentación de cada p
 > [!NOTE]
 > Versión de Ionic publicada en Netlify
 - [Aquí](https://callofdutywiki.netlify.app)
+
+<br/>
+
+---
+
 <br/>
 
 ## 📑 Esquema de Base de Datos 📑
