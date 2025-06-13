@@ -10,11 +10,13 @@ Los usuarios tienen roles y según el que tienen pueden hacer:
 
 • <span style="color:red"><strong>Baneado</strong></span>: Solo puede visualizar el contenido. Este rol se asigna a usuarios que han cometido infracciones en la página.
 
+<br/>
 
 ## ✅Objetivos del Proyecto✅
 
 Este proyecto tiene como objetivo proporcionar información sobre la franquicia de Call of Duty y mantener en contacto a los usuarios a través de los foros. Además los que sean moderadores pueden mantener actualizada esta Wiki.
 
+<br/>
 
 ## ⚙️Tecnologías Utilizadas⚙️
 ### 🖥️ Backend 🖥️
@@ -43,21 +45,27 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 
 🎮 <strong>Unity:</strong> <span style="color:#DAA520;"><strong>Videojuego 3D muy simple</strong></span> hecho con esta herramienta y el lenguaje <span style="color:#800000;"><strong>C#</strong></span>, con la temática de la página.
 
+<br/>
 
-------------------------------------------------------------------------------------------------
 ## 📎 Interfaces 📎
 
 - Todas las cosas de Interfaces está en Google Drive, la documentación de cada proyecto está en su respectivo repositorio.
-- : [Aquí](https://drive.google.com/drive/folders/1qUsfz2RvRiad_g2wtNq5wQ2q6ZZ1-aDt?usp=drive_link)
-> ℹ️ **¿Tienes dudas?**  
-> No te preocupes, **todo está explicado en el Drive**.  
+- [Aquí](https://drive.google.com/drive/folders/1qUsfz2RvRiad_g2wtNq5wQ2q6ZZ1-aDt?usp=drive_link)
+> [!NOTE]
+> **¿Tienes dudas?**  
+> No te preocupes, **todo está explicado en el Drive**.
+
+<br/>
 
 ------------------------------------------------------------------------------------------------
 
+<br/>
 
 ## 🎮 TFG - Call of Duty 🎮
 - ⚙️ Enlace al Anteproyecto en Notion: [Aquí](https://www.notion.so/Call-of-Duty-Wiki-1c1cdd00abd78057b05fc2246505e70c?pvs=4)
 - 📹 Enlace al vídeo Checkpoint: [Aquí](https://youtu.be/TB4tGpxZSS0)
+- 🌐 Enlace al vídeo Manual de Ionic: [Aquí](https://youtu.be/0CNympc3CYM)
+- 📱 Enlace al vídeo Manual de Android: [Aquí](https://youtu.be/78OuiN9JQYA)
 <br/>
 
 ## 📤 Repositorios 📤
@@ -76,5 +84,6 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 <br/>
 
 ## 🌐 Netlify 🌐
-> [!IMPORTANT]
-> **Para acceder a la versión de Ionic online subida a Netlify debes usar el enlace que hay disponible en el repositorio de la Versión Ionic.**
+> [!NOTE]
+> Versión de Ionic publicada en Netlify
+- [Aquí](https://callofdutywiki.netlify.app)
