@@ -1,20 +1,29 @@
+## 🎮 Call of Duty Wiki 🎮
+### Hecho por Paula Atencia Barranco
 
 ## ✨ Ideas para el proyecto ✨
-Mi proyecto trata de una Wiki sobre *Call Of Duty* donde los usuarios pueden crear artículos de mapas y armas, les pueden poner su información, imagen, y el juego/s al que pertenecen.
+Mi proyecto trata de una Wiki sobre *Call Of Duty* donde los usuarios pueden crear entradas de mapas y armas, les pueden poner su información, imagen, y el juego/s al que pertenecen, para que otros usuarios puedan verlo después.
+Además, también hay disponible una sección de foros donde los usuarios pueden publicar comentarios y así hablar entre ellos.
 
 Los usuarios tienen roles y según el que tienen pueden hacer:
 
-• <span style="color:gold"><strong>Moderador</strong></span>: Puede crear, editar y eliminar artículos de armas y mapas. Además, tiene acceso al gestor de usuarios, donde puede cambiar roles y eliminar comentarios.
+• **Autenticado**: Es el rol normal, puede visualizar los mapas, armas y foros, pero no tiene permisos para crear, editar o eliminar contenido. Sin embargo, puede participar en los foros subiendo comentarios.
 
-• <span style="color:green"><strong>Autentificado</strong></span>: Puede visualizar los mapas, armas y juegos, pero no tiene permisos para crear, editar o eliminar contenido. Sin embargo, puede participar en los foros dentro del apartado de juegos.
+• **Moderador**: Puede hacer lo mismo que Autenticado pero además puede crear, editar y eliminar entradas de armas y mapas. También tiene acceso al gestor de usuarios, donde puede cambiar roles y eliminar comentarios de otros usuarios.
 
-• <span style="color:red"><strong>Baneado</strong></span>: Solo puede visualizar el contenido. Este rol se asigna a usuarios que han cometido infracciones en la página.
+• **Baneado**: Este rol se asigna a usuarios que han cometido infracciones en la página. Es igual que Autenticado pero no puede leer ni publicar comentarios en los foros.
 
 <br/>
 
 ## ✅ Objetivos del Proyecto ✅
 
-Este proyecto tiene como objetivo proporcionar información sobre la franquicia de Call of Duty y mantener en contacto a los usuarios a través de los foros. Además los que sean moderadores pueden mantener actualizada esta Wiki.
+- 💡 Este proyecto tiene como objetivo **proporcionar información** sobre la franquicia de Call of Duty y **mantener en contacto** a los usuarios a través de los foros. Además, los que sean moderadores pueden mantener actualizada esta Wiki.
+
+- 🔀 El proyecto es **multiplataforma**, estando disponible tanto en versión web como en aplicación de Android.
+
+- ℹ️ El proyecto incluye un sistema de **dos Backend**, con información y usuarios diferentes.
+
+- 🔠 El proyecto está disponible tanto en **Inglés como Español**, incluyendo el uso de Google Translator para traducir datos que los usuarios creen (cometarios, descripciones, etc.)
 
 <br/>
 
@@ -23,49 +32,28 @@ Este proyecto tiene como objetivo proporcionar información sobre la franquicia 
 
 La Wiki presenta dos backend disponibles cada uno con su base de datos, por lo que son “dos wikis en una”, estos son:
 
-🛠️  <strong>Strapi:</strong> API Rest conectada a una base de datos <span style="color:#DAA520;"><strong>PostgreSQL</strong></span> (proporcionada por Render), también proporciona un sistema de autentificación y está hosteada por Render aunque se puede ejecutar en local. Para las imágenes se utiliza <span style="color:#9932CC;"><strong>Cloudinary</strong></span>.
+- 🛠️ **Strapi:** API Rest conectada a una base de datos **PostgreSQL** (proporcionada por Render), también proporciona un sistema de autentificación y está hosteada por Render aunque se puede ejecutar en local. Para las imágenes se utiliza **Cloudinary**.
 
-🔥 <strong>Firebase:</strong> Servicio que proporciona una base de datos <span style="color:#FF4500;"><strong>Firestore</strong></span> y un sistema de autentificación <span style="color:#32CD32;"><strong>Firebase Auth</strong></span>. Para las imágenes se utiliza <span style="color:#4169E1;"><strong>Firebase Storage</strong></span>.
+- 🔥 **Firebase:** Servicio que proporciona una base de datos **Firestore** y un sistema de autentificación **Firebase Auth**. Para las imágenes se utiliza **Firebase Storage**.
 
 ---
 ### 💻 Frontend 💻
 
 La Wiki está disponible como página web y como aplicación móvil android, se ha desarrollado en dos entornos diferentes para lograr esto:
 
-🌐 <strong>Ionic + Angular:</strong> Proyecto web hecho con estos dos frameworks de <strong>TypeScript</strong>, con el que se proporciona así la página web y también, gracias a la librería <strong>Capacitor</strong>, una aplicación Android.
+- 🌐 **Ionic + Angular:** Proyecto web hecho con estos dos frameworks de **TypeScript**, con el que se proporciona así la página web y también, gracias a la librería **Capacitor**, una aplicación Android.
 
-📱 <strong>Android Studio:</strong> Proyecto hecho en este entorno con el lenguaje <strong>Kotlin</strong> con el que se proporciona otra aplicación Android pero totalmente enfocada al uso móvil.
+- 📱 **Android Studio:** Proyecto hecho en este entorno con el lenguaje **Kotlin** con el que se proporciona otra aplicación Android pero totalmente enfocada al uso móvil.
 
 ---
 ### 🧠 Miscelánea 🧠
 
-🐍 <strong>API de Python:</strong> Elaborada para crear una <span style="color:#1E90FF;"><strong>IA de traducción</strong></span> utilizando la librería <span style="color:#32CD32;"><strong>Google Translator</strong></span> para que la página web pueda traducir ciertos datos (comentarios del foro y descripciones de mapas) que son datos proporcionados por el backend.
+- 🐍 **API Google Translator en Python:** Es una **IA de traducción** utilizando la librería **Google Translator** para que la página web pueda traducir ciertos datos (comentarios del foro y descripciones de mapas) que son creados por los usuarios.
 
-🐍 <strong>2º API de Python:</strong> Elaborada para proporcionar un sistema de <span style="color:#8B008B;"><strong>transformación</strong></span> de ficheros <span style="color:#FF4500;"><strong>JSON</strong></span> a <span style="color:#228B22;"><strong>CSV</strong></span> de los datos de las armas, mapas, juegos, comentarios y usuarios de la página web.
+- 🐍 **API Convertidor JSON a CSV en Python:** Elaborada para proporcionar un sistema de **transformación** de ficheros **JSON** a **CSV** de los datos de las armas, mapas, juegos, comentarios y usuarios de la página web (tiene que ver con la página de análisis).
 
-🎮 <strong>Unity:</strong> <span style="color:#DAA520;"><strong>Videojuego 3D muy simple</strong></span> hecho con esta herramienta y el lenguaje <span style="color:#800000;"><strong>C#</strong></span>, con la temática de la página.
+- 🎮 **Juego 3D en Unity:** Videojuego 3D muy simple hecho con esta herramienta y el lenguaje **C#** con la temática de la página, trata sobre destruir tanques y ganar puntos.
 
-<br/>
-
-## 📎 Interfaces 📎
-
-Todas las cosas de Interfaces está en Google Drive, la documentación de cada proyecto está en su respectivo repositorio.
-- [Aquí](https://drive.google.com/drive/folders/1qUsfz2RvRiad_g2wtNq5wQ2q6ZZ1-aDt?usp=drive_link)
-> [!NOTE]
-> **¿Tienes dudas?**  
-> No te preocupes, **todo está explicado en el Drive**.
-
-<br/>
-
----
-
-<br/>
-
-## 🎮 TFG - Call of Duty 🎮
-- ⚙️ Enlace al Anteproyecto en Notion: [Aquí](https://www.notion.so/Call-of-Duty-Wiki-1c1cdd00abd78057b05fc2246505e70c?source=copy_link)
-- 📹 Enlace al vídeo Checkpoint: [Aquí](https://youtu.be/TB4tGpxZSS0)
-- 🌐 Enlace al vídeo Tutorial de Ionic: [Aquí](https://youtu.be/0CNympc3CYM)
-- 📱 Enlace al vídeo Tutorial de Android: [Aquí](https://youtu.be/78OuiN9JQYA)
 <br/>
 
 ## 📤 Repositorios 📤
@@ -74,6 +62,27 @@ Todas las cosas de Interfaces está en Google Drive, la documentación de cada p
 - 📫 Servicio Strapi: [Aquí](https://github.com/PaulaAtencia/Strapi_CallofDuty)
 - 🐍 CoD Utils - Librerías Python: [Aquí](https://github.com/PaulaAtencia/callofduty-utils-fastapi)
 - 🎮 Shot Of Duty - Juego en Unity: [Aquí](https://github.com/PaulaAtencia/Shot-Of-Duty)
+- ⚙️ Anteproyecto - Notion: [Aquí](https://www.notion.so/Call-of-Duty-Wiki-1c1cdd00abd78057b05fc2246505e70c?source=copy_link)
+
+<br/>
+
+## 🎦 Vídeos 🎦
+### Checkpoint
+- 📹 Enlace al vídeo Checkpoint: [Aquí](https://youtu.be/TB4tGpxZSS0)
+### Exposición breve
+- 📹 Enlace al vídeo sobre breve exposición del proyecto y sus funcionalidades:
+### ❔ Tutoriales
+- 🌐 Enlace al vídeo Tutorial de Ionic: [Aquí](https://youtu.be/0CNympc3CYM)
+- 📱 Enlace al vídeo Tutorial de Android: [Aquí](https://youtu.be/78OuiN9JQYA)
+
+<br/>
+
+## 🌐 Aplicación Desplegada 🌐
+> [!NOTE]
+> Versión Web de Ionic publicada en Netlify<br/>
+> (Redirige a /home, pero si no tienes sesión iniciada la guardia te redirige a /login)
+- [Aquí](https://callofdutywiki.netlify.app)
+
 <br/>
 
 ## 📱 APK's 📱
@@ -81,16 +90,25 @@ Todas las cosas de Interfaces está en Google Drive, la documentación de cada p
 > Estos enlaces siempre son a la versión más reciente sacada
 - APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1izMRuY_5V9BO5KFLTZ6sWRWtVI1yB00L/view?usp=sharing)
 - APK de la versión de **Capacitor + Ionic**: [Aquí](https://drive.google.com/file/d/1Zn4mGwf5thCwKKIdZ1sCeF60HQ0UsUzS/view?usp=sharing)
+
 <br/>
 
-## 🌐 Netlify 🌐
+## 📎 Desarrollo de Interfaces 📎
+
+Todas las cosas de Interfaces está en Google Drive:
+- Prototipo básico en Balsamiq.
+- Prototipo final en Figma.
+- Informe sobre la documentación de cada repositorio y dónde se encuentran.
+- Informe en PowerBI
+
 > [!NOTE]
-> Versión de Ionic publicada en Netlify
-- [Aquí](https://callofdutywiki.netlify.app)
+> **¿Tienes dudas?**  
+> No te preocupes, **todo está explicado en el Drive**.
 
 <br/>
 
----
+## ✍️ Bibliografía y Bitácora
+Ambos documentos disponibles en Google Drive:
 
 <br/>
 
@@ -175,6 +193,3 @@ Las relaciones son las mismas que en el diagrama de Strapi pero adaptadas a NoSQ
 | id | string | Identificación única creada por Firebase Auth |
 | email | string | Email único del usuario |
 | password | string | Contraseña del usuario |
----
-
-
