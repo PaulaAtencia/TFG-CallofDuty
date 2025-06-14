@@ -74,6 +74,7 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 ### ❔ Tutoriales
 - 🌐 Enlace al vídeo Tutorial de Ionic: [Aquí](https://youtu.be/0CNympc3CYM)
 - 📱 Enlace al vídeo Tutorial de Android: [Aquí](https://youtu.be/78OuiN9JQYA)
+- 🎮 Enlace al vídeo Gameplay Demostración de Shot Of Duty: [Aquí](https://youtu.be/b9c-Yg8ne7k)
 
 <br/>
 
