@@ -21,9 +21,9 @@ Los usuarios tienen roles y según el que tienen pueden hacer:
 
 - 🔀 El proyecto es **multiplataforma**, estando disponible tanto en versión web como en aplicación de Android.
 
-- ℹ️ El proyecto incluye un sistema de **dos Backend**, con información y usuarios diferentes.
+- ℹ️ El proyecto incluye un sistema de **dos Backend**, con información y usuarios diferentes. ¡Es como tener dos páginas diferentes en una!
 
-- 🔠 El proyecto está disponible tanto en **Inglés como Español**, incluyendo el uso de Google Translator para traducir datos que los usuarios creen (cometarios, descripciones, etc.)
+- 🔠 El proyecto está disponible tanto en **Inglés como Español**, incluyendo el uso de Google Translator para traducir datos que los usuarios creen (comentarios, descripciones, etc.)
 
 <br/>
 
