@@ -52,7 +52,7 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 
 - 🐍 **API Convertidor JSON a CSV en Python:** Elaborada para proporcionar un sistema de **transformación** de ficheros **JSON** a **CSV** de los datos de las armas, mapas, juegos, comentarios y usuarios de la página web (tiene que ver con la página de análisis).
 
-- 🎮 **Juego 3D en Unity:** Videojuego 3D muy simple hecho con esta herramienta y el lenguaje **C#** con la temática de la página, trata sobre destruir tanques y ganar puntos.
+- 🎮 **Juego 3D en Unity:** Videojuego 3D hecho en Unity que trata, siendo una torreta, de destruir tanques y ganar puntos hasta que te derriben.
 
 <br/>
 
