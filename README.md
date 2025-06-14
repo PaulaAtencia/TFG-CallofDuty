@@ -101,6 +101,7 @@ Todas las cosas de Interfaces está en Google Drive:
 - Prototipo final en Figma.
 - Informe sobre la documentación de cada repositorio y dónde se encuentran.
 - Informe en PowerBI
+- Zip con el ejecutable del juego Shot Of Duty (también disponible en el repositorio en [Releases](https://github.com/PaulaAtencia/Shot-Of-Duty/releases))
 
 > [!NOTE]
 > **¿Tienes dudas?**  
