@@ -64,8 +64,8 @@ Todas las cosas de Interfaces está en Google Drive, la documentación de cada p
 ## 🎮 TFG - Call of Duty 🎮
 - ⚙️ Enlace al Anteproyecto en Notion: [Aquí](https://www.notion.so/Call-of-Duty-Wiki-1c1cdd00abd78057b05fc2246505e70c?source=copy_link)
 - 📹 Enlace al vídeo Checkpoint: [Aquí](https://youtu.be/TB4tGpxZSS0)
-- 🌐 Enlace al vídeo Manual de Ionic: [Aquí](https://youtu.be/0CNympc3CYM)
-- 📱 Enlace al vídeo Manual de Android: [Aquí](https://youtu.be/78OuiN9JQYA)
+- 🌐 Enlace al vídeo Tutorial de Ionic: [Aquí](https://youtu.be/0CNympc3CYM)
+- 📱 Enlace al vídeo Tutorial de Android: [Aquí](https://youtu.be/78OuiN9JQYA)
 <br/>
 
 ## 📤 Repositorios 📤
