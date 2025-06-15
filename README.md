@@ -81,6 +81,7 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 ## 🎤 Presentación TFG (18/06)
 - 🛄 Enlace al Canva de la presentación: [Aquí](https://www.canva.com/design/DAGqMDQl0NY/Cf_6J3ZVonyXFTKMLKZnhg/edit?utm_content=DAGqMDQl0NY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - RECORDATORIO: Entra con la cuenta de g.educaand.es
+- Si quieres la versión en PDF está [Aquí](https://drive.google.com/drive/folders/1XKc6pzqLIgojl6-ol1J50LJ6K-XLiGZu?usp=drive_link)
 
 <br/>
 
