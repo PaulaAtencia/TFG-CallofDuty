@@ -61,8 +61,8 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 - 🌐 Call of Duty - Versión Ionic: [Aquí](https://github.com/PaulaAtencia/Ionic_CallofDuty)
 - 📱 Call of Duty - Versión Android Studio: [Aquí](https://github.com/PaulaAtencia/Kotlin_CallofDuty)
 - 📫 Servicio Strapi: [Aquí](https://github.com/PaulaAtencia/Strapi_CallofDuty)
-- 🐍 CoD Utils - Librerías Python: [Aquí](https://github.com/PaulaAtencia/callofduty-utils-fastapi)
-- 🎮 Shot Of Duty - Juego en Unity: [Aquí](https://github.com/PaulaAtencia/Shot-Of-Duty)
+- 🐍 CoD Utils - API Rest Librerías Python: [Aquí](https://github.com/PaulaAtencia/callofduty-utils-fastapi)
+- 🎮 Shot Of Duty - Juego 3D en Unity: [Aquí](https://github.com/PaulaAtencia/Shot-Of-Duty)
 - ⚙️ Anteproyecto - Notion: [Aquí](https://www.notion.so/Call-of-Duty-Wiki-1c1cdd00abd78057b05fc2246505e70c?source=copy_link)
 
 <br/>
