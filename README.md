@@ -78,6 +78,12 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 
 <br/>
 
+## 🎤 Presentación TFG (18/06)
+- 🛄 Enlace al Canva de la presentación: [Aquí](https://www.canva.com/design/DAGqMDQl0NY/Cf_6J3ZVonyXFTKMLKZnhg/edit?utm_content=DAGqMDQl0NY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- RECORDATORIO: Entra con la cuenta de g.educaand.es
+
+<br/>
+
 ## 🌐 Aplicación Desplegada 🌐
 > [!NOTE]
 > Versión Web de Ionic publicada en Netlify<br/>
@@ -112,7 +118,7 @@ Todas las cosas de Interfaces está en Google Drive: [Aquí](https://drive.googl
 
 <br/>
 
-## ✍️ Bibliografía y Bitácora
+## ✍️ Bibliografía + Bitácora + PDF de la presentación del 18
 Ambos documentos disponibles en Google Drive: [Aquí](https://drive.google.com/drive/folders/1XKc6pzqLIgojl6-ol1J50LJ6K-XLiGZu?usp=drive_link)  
 - Recordatorio: Utiliza la cuenta de g.educaand.es
 
