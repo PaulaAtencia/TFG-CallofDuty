@@ -96,12 +96,15 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 
 ## 📎 Desarrollo de Interfaces 📎
 
-Todas las cosas de Interfaces está en Google Drive:
+Todas las cosas de Interfaces está en Google Drive: [Aquí](https://drive.google.com/drive/folders/1qUsfz2RvRiad_g2wtNq5wQ2q6ZZ1-aDt?usp=drive_link)
+- Recordatorio: Utiliza la cuenta de g.educaand.es!!!!
+
 - Prototipo básico en Balsamiq.
 - Prototipo final en Figma.
 - Informe sobre la documentación de cada repositorio y dónde se encuentran.
 - Informe en PowerBI
 - Zip con el ejecutable del juego Shot Of Duty (también disponible en el repositorio en [Releases](https://github.com/PaulaAtencia/Shot-Of-Duty/releases))
+- Vídeo demostración del juego 3D con Unity (también está en Youtube)
 
 > [!NOTE]
 > **¿Tienes dudas?**  
@@ -110,7 +113,8 @@ Todas las cosas de Interfaces está en Google Drive:
 <br/>
 
 ## ✍️ Bibliografía y Bitácora
-Ambos documentos disponibles en Google Drive:
+Ambos documentos disponibles en Google Drive: [Aquí](https://drive.google.com/drive/folders/1XKc6pzqLIgojl6-ol1J50LJ6K-XLiGZu?usp=drive_link)  
+- Recordatorio: Utiliza la cuenta de g.educaand.es
 
 <br/>
 
