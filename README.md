@@ -67,13 +67,13 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 <br/>
 
 ## 🎦 Vídeos 🎦
-### Checkpoint
-- 📹 Enlace al vídeo Checkpoint: [Aquí](https://youtu.be/TB4tGpxZSS0)
+### Checkpoint 
+- 📹 Enlace al vídeo Checkpoint: [Aquí](https://youtu.be/TB4tGpxZSS0) (Solo deja visualizarlo con la cuenta g.educaand)
 ### Exposición breve
 - 📹 Enlace al vídeo sobre breve exposición del proyecto y sus funcionalidades:
 ### ❔ Tutoriales
-- 🌐 Enlace al vídeo Tutorial de Ionic: [Aquí](https://youtu.be/0CNympc3CYM)
-- 📱 Enlace al vídeo Tutorial de Android: [Aquí](https://youtu.be/78OuiN9JQYA)
+- 🌐 Enlace al vídeo Tutorial de Ionic: [Aquí](https://youtu.be/0CNympc3CYM) (Solo deja visualizarlo con la cuenta g.educaand)
+- 📱 Enlace al vídeo Tutorial de Android: [Aquí](https://youtu.be/78OuiN9JQYA) (Solo deja visualizarlo con la cuenta g.educaand)
 - 🎮 Enlace al vídeo Gameplay Demostración de Shot Of Duty: [Aquí](https://youtu.be/b9c-Yg8ne7k)
 
 <br/>
