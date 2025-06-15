@@ -72,22 +72,22 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 ### Exposición breve
 - 📹 Enlace al vídeo sobre breve exposición del proyecto y sus funcionalidades: [Aquí](https://youtu.be/fKujMjo_5I0) (Solo deja visualizarlo con la cuenta g.educaand.es)
 > [!CAUTION]
-> RECORDATORIO: Recuerda esto es algo muy breve, si quieres verlo en profundidad mira los Tutoriales (están separados así que solo mira la parte de Android o Ionic).
+> 🚨 RECORDATORIO: Recuerda esto es algo muy breve, si quieres verlo en profundidad mira los Tutoriales (están separados así que solo mira la parte de Android o Ionic).
 
 <br/>
 
-## ❔ Tutoriales 🚑
+## ❔ Tutoriales 🚨🚨
 - 🌐 Enlace al vídeo Tutorial de Ionic: [Aquí](https://youtu.be/0CNympc3CYM) (Solo deja visualizarlo con la cuenta g.educaand)
 - 📱 Enlace al vídeo Tutorial de Android: [Aquí](https://youtu.be/78OuiN9JQYA) (Solo deja visualizarlo con la cuenta g.educaand)
 - 🎮 Enlace al vídeo Gameplay Demostración de Shot Of Duty: [Aquí](https://youtu.be/b9c-Yg8ne7k)
 
 <br/>
 
-## 🎤 Presentación TFG (18/06)
+## 🎤 Presentación TFG (18/06) 🎤
 - 🛄 Enlace al Canva de la presentación: [Aquí](https://www.canva.com/design/DAGqMDQl0NY/Cf_6J3ZVonyXFTKMLKZnhg/edit?utm_content=DAGqMDQl0NY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Si quieres la versión en PDF está [Aquí](https://drive.google.com/drive/folders/1XKc6pzqLIgojl6-ol1J50LJ6K-XLiGZu?usp=drive_link)
 > [!CAUTION]
-> RECORDATORIO: Entra con la cuenta de g.educaand.es en ambos
+> 🚨 RECORDATORIO: Entra con la cuenta de g.educaand.es en ambos
 
 <br/>
 
@@ -105,7 +105,7 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 - APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1izMRuY_5V9BO5KFLTZ6sWRWtVI1yB00L/view?usp=sharing)
 - APK de la versión de **Capacitor + Ionic**: [Aquí](https://drive.google.com/file/d/1Zn4mGwf5thCwKKIdZ1sCeF60HQ0UsUzS/view?usp=sharing)
 > [!CAUTION]
-> RECORDATORIO: Entra con la cuenta de g.educaand.es en ambos
+> 🚨 RECORDATORIO: Entra con la cuenta de g.educaand.es en ambos
 
 <br/>
 
@@ -113,7 +113,7 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 
 Todas las cosas de Interfaces está en Google Drive: [Aquí](https://drive.google.com/drive/folders/1qUsfz2RvRiad_g2wtNq5wQ2q6ZZ1-aDt?usp=drive_link)
 > [!CAUTION]
-> Recordatorio: Utiliza la cuenta de g.educaand.es!!!!
+> 🚨 Recordatorio: Utiliza la cuenta de g.educaand.es!!!!
 
 Se incluye:
 - Prototipo básico en Balsamiq.
@@ -132,7 +132,7 @@ Se incluye:
 ## ✍️ Bibliografía + Bitácora + PDF de la presentación del 18
 Ambos documentos disponibles en Google Drive: [Aquí](https://drive.google.com/drive/folders/1XKc6pzqLIgojl6-ol1J50LJ6K-XLiGZu?usp=drive_link)  
 > [!CAUTION]
-> RECORDATORIO: Entra con la cuenta de g.educaand.es en ambos
+> 🚨 RECORDATORIO: Entra con la cuenta de g.educaand.es en ambos
 
 <br/>
 
