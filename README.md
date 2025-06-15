@@ -1,5 +1,6 @@
-## 🎮 Call of Duty Wiki 🎮
-### Hecho por Paula Atencia Barranco
+# 🎮 Call of Duty Wiki 🎮
+### Hecho por *Paula Atencia Barranco*
+<br/>
 
 ## ✨ Ideas para el proyecto ✨
 Mi proyecto trata de una Wiki sobre *Call Of Duty* donde los usuarios pueden crear entradas de mapas y armas, les pueden poner su información, imagen, y el juego/s al que pertenecen, para que otros usuarios puedan verlo después.
