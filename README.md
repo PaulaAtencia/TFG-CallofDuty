@@ -68,10 +68,11 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 
 ## 🎦 Vídeos 🎦
 ### Checkpoint 
-- 📹 Enlace al vídeo Checkpoint: [Aquí](https://youtu.be/TB4tGpxZSS0) (Solo deja visualizarlo con la cuenta g.educaand)
+- 📹 Enlace al vídeo Checkpoint: [Aquí](https://youtu.be/TB4tGpxZSS0) (Solo deja visualizarlo con la cuenta g.educaand.es)
 ### Exposición breve
-- 📹 Enlace al vídeo sobre breve exposición del proyecto y sus funcionalidades: [Aquí](https://youtu.be/fKujMjo_5I0)
-- RECORDATORIO: Recuerda esto es algo muy breve, si quieres verlo en profundidad mira los Tutoriales (están separados así que solo mira la parte de Android o Ionic).
+- 📹 Enlace al vídeo sobre breve exposición del proyecto y sus funcionalidades: [Aquí](https://youtu.be/fKujMjo_5I0) (Solo deja visualizarlo con la cuenta g.educaand.es)
+> [!CAUTION]
+> RECORDATORIO: Recuerda esto es algo muy breve, si quieres verlo en profundidad mira los Tutoriales (están separados así que solo mira la parte de Android o Ionic).
 
 <br/>
 
@@ -84,8 +85,9 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 
 ## 🎤 Presentación TFG (18/06)
 - 🛄 Enlace al Canva de la presentación: [Aquí](https://www.canva.com/design/DAGqMDQl0NY/Cf_6J3ZVonyXFTKMLKZnhg/edit?utm_content=DAGqMDQl0NY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- RECORDATORIO: Entra con la cuenta de g.educaand.es
 - Si quieres la versión en PDF está [Aquí](https://drive.google.com/drive/folders/1XKc6pzqLIgojl6-ol1J50LJ6K-XLiGZu?usp=drive_link)
+> [!CAUTION]
+> RECORDATORIO: Entra con la cuenta de g.educaand.es en ambos
 
 <br/>
 
@@ -102,14 +104,18 @@ La Wiki está disponible como página web y como aplicación móvil android, se 
 > Estos enlaces siempre son a la versión más reciente sacada
 - APK de la versión de **Android Studio**: [Aquí](https://drive.google.com/file/d/1izMRuY_5V9BO5KFLTZ6sWRWtVI1yB00L/view?usp=sharing)
 - APK de la versión de **Capacitor + Ionic**: [Aquí](https://drive.google.com/file/d/1Zn4mGwf5thCwKKIdZ1sCeF60HQ0UsUzS/view?usp=sharing)
+> [!CAUTION]
+> RECORDATORIO: Entra con la cuenta de g.educaand.es en ambos
 
 <br/>
 
 ## 📎 Desarrollo de Interfaces 📎
 
 Todas las cosas de Interfaces está en Google Drive: [Aquí](https://drive.google.com/drive/folders/1qUsfz2RvRiad_g2wtNq5wQ2q6ZZ1-aDt?usp=drive_link)
-- Recordatorio: Utiliza la cuenta de g.educaand.es!!!!
+> [!CAUTION]
+> Recordatorio: Utiliza la cuenta de g.educaand.es!!!!
 
+Se incluye:
 - Prototipo básico en Balsamiq.
 - Prototipo final en Figma.
 - Informe sobre la documentación de cada repositorio y dónde se encuentran.
@@ -125,7 +131,8 @@ Todas las cosas de Interfaces está en Google Drive: [Aquí](https://drive.googl
 
 ## ✍️ Bibliografía + Bitácora + PDF de la presentación del 18
 Ambos documentos disponibles en Google Drive: [Aquí](https://drive.google.com/drive/folders/1XKc6pzqLIgojl6-ol1J50LJ6K-XLiGZu?usp=drive_link)  
-- Recordatorio: Utiliza la cuenta de g.educaand.es
+> [!CAUTION]
+> RECORDATORIO: Entra con la cuenta de g.educaand.es en ambos
 
 <br/>
 
